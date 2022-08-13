@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://github.com/AbhishekSharma-Tech/Counter-App/static/css/main.ebb66dab.css",
+    "main.js": "https://github.com/AbhishekSharma-Tech/Counter-App/static/js/main.3963acba.js",
+    "index.html": "https://github.com/AbhishekSharma-Tech/Counter-App/index.html",
+    "main.ebb66dab.css.map": "https://github.com/AbhishekSharma-Tech/Counter-App/static/css/main.ebb66dab.css.map",
+    "main.3963acba.js.map": "https://github.com/AbhishekSharma-Tech/Counter-App/static/js/main.3963acba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebb66dab.css",
+    "static/js/main.3963acba.js"
+  ]
+}
